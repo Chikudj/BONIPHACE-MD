@@ -1,5 +1,5 @@
 {
-  "name":"BONIPHACE-MD UPDATE BY ME",
+  "name":"DJ-MD UPDATE BY ME ",
   "description":"Best WhatsApp Bot Developed By Boniphace Tech Contact me 255716661569, Thank you for choose BONIPHACE-MD",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/5462ea7070b61eb790caa.jpg",
@@ -10,7 +10,7 @@
     "PREFIX":
     {
       "description":"choose your prefix of bot",
-      "value":".",
+      "value":"/",
       "required":true
     },
     "AUTO_READ_STATUS":
@@ -35,7 +35,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"BONIPHACE-MD",
+      "value":"ORGANIC_MECHANIC_DJ",
       "required":false
 
     } ,
@@ -65,7 +65,7 @@
     "SESSION_ID":
     {
       "description":"put your session ID , the code you receive after scanning Qr code",   
-      "value":"",
+      "value":"eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiMExhTVFUMHFiZmYvcTQrWFJwTGJQa0hWK1crTlVnaWxaM0JCVFNZRWNtaz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiUkc1M2F4T0pTcnJFQmhialhNYjBHWXpkYWdVWDNsbzhrWGczRVUyWFVnbz0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJFQ29YRlJpeHdRcW5ZY3gyUzl5MGt1SGFOa01VbDNuYnVjdnl5NDY5ZjFNPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJMYW1rRUdzVkZ6SkZEeFY4VWIwSjZyVEphaHJpVzgxdVlSS3VPNnRyelM4PSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IjJQMURKN21OSStSNGJKNUFaMk5DakpKU1Axb1ZRTnNnRGw0SUxCYTUxbEk9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IjRTSk5DOGdsd0RNZTFhRkF6WXA3NmZMaHVoQ09qRUgvQlk2a3Vha3BlUjQ9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoibVBKUG1RcmlpTGd0N3hxSlpOK09KODJGdmJOUGpvY0tFTmJhMEpuRkIyMD0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiWmZMZUkrcXZNUWNRU0JDNkhTbkZBb084ZWt2SC9NR2dxWmlzbkVBb3l6VT0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IlpySlpQRFk5eG1KMGp6U3VKZndSV0hxT0VpM3AvNmJ0S2dDOHQ5VkpUdDlVTUg2aGNlWTN0cXo5bmp6YzJLam82OWRnV05GT0tzTGE4ZThrVTNPTGlBPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MTAyLCJhZHZTZWNyZXRLZXkiOiJsOG5OUUFiSWY3alJPc0FlTVJrcXdQNEx2dXZScGNqZU51c0ZqRmtRZEprPSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W10sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjowLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwiZGV2aWNlSWQiOiJPZ1FUa2tKSFF5ZXNnRWQtT2RsbnZnIiwicGhvbmVJZCI6IjAyMGYzNDRkLTEzZjctNGIyYy05YjhlLWU5NTBmODg3ZWI0ZiIsImlkZW50aXR5SWQiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJEb1EvRE9CdlVWekJ0TTBlQTFPdUZYK3hYNGc9In0sInJlZ2lzdGVyZWQiOnRydWUsImJhY2t1cFRva2VuIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoid2pGZTFuTWZScDNLNTBteHFWb1I3Vm1FNnBnPSJ9LCJyZWdpc3RyYXRpb24iOnt9LCJwYWlyaW5nQ29kZSI6IjVWV0VMMTIyIiwibWUiOnsiaWQiOiIyNTU2NzUxMDQ0OTA6MzJAcy53aGF0c2FwcC5uZXQifSwiYWNjb3VudCI6eyJkZXRhaWxzIjoiQ1BiRXFCMFE2YjNFdHdZWUNTQUFLQUE9IiwiYWNjb3VudFNpZ25hdHVyZUtleSI6ImNLUExCd2ZJdXJEN2xSTGx0R290VmhZNE1YTlVVTVNKWTF0d0wxUVBTd0E9IiwiYWNjb3VudFNpZ25hdHVyZSI6IjhuTlpTZjRBSmxUWUd3SjdVdkkwUVNYaTBtVzdNeElpejFDdDkyV0swRFdnSzV4YXpPVHJWRW9WeUg0OENMMVB3VldOZHFuYXc0bDRmTDlWZkg1c0F3PT0iLCJkZXZpY2VTaWduYXR1cmUiOiJTdDJRT0pVTTcwMTNkdzJtbDdHVlJSd2tnRjRTQkg4dEZpcG5ua0w0NjJKMXR1Qy9RY2RKUmRCY214L1N1QTV2NCtVMmdIRERLOGFXYnh2NjlzVFRoZz09In0sInNpZ25hbElkZW50aXRpZXMiOlt7ImlkZW50aWZpZXIiOnsibmFtZSI6IjI1NTY3NTEwNDQ5MDozMkBzLndoYXRzYXBwLm5ldCIsImRldmljZUlkIjowfSwiaWRlbnRpZmllcktleSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkJYQ2p5d2NIeUxxdys1VVM1YlJxTFZZV09ERnpWRkRFaVdOYmNDOVVEMHNBIn19XSwicGxhdGZvcm0iOiJhbmRyb2lkIiwibGFzdEFjY291bnRTeW5jVGltZXN0YW1wIjoxNzI3MDc4MTM1LCJteUFwcFN0YXRlS2V5SWQiOiJBQUFBQUlaZCJ9",
       "required":true
       
     },
@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "BONIPHACE TECH👑"
+    "value": "DJ 🍎🍎"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "255716661569"
+    "value": "255675104490"
 	  
   },
     "WARN_COUNT":
